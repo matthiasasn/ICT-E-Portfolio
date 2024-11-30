@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+    <head> 
+	<link rel="stylesheet" href="LESSON3_ATTRIBUTESELECTOR.css">
+	<title> LESSON 3: CSS SELECTORS - ATTRIBUTE SELECTOR </title> 
+    </head>
+
+    <body>
+	<h1 id="head"> <i> <u> LESSON 3: CSS SELECTORS - ATTRIBUTE SELECTOR </u> </i> </h1>
+	<p class="first"> All paragraphs in this website are centered, have their font size as Verdana, and have their font size as 17px. </p>
+	<p class="second"> This paragraph doesn't have a red background color, unlike the first and third paragraph. </p>
+	<p class="third"> This paragraph has the same style as the first paragraph. </p>
+    </body>
+
+</html>

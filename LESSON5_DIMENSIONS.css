@@ -1,0 +1,13 @@
+.head	   {text-align:center;
+	   color:#D2042D;}
+
+.paragraph {text-align:center;
+	   font-size:17px;
+	   font-family:Verdana;}
+
+.first     {color:#D2042D;
+	   height:50%}
+
+.second    {background-color:#D2042D;
+	   color:white;
+	   width:50%}

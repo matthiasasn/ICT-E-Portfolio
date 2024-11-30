@@ -1,0 +1,21 @@
+.head	     {text-align:center;
+	     color:#D2042D;}
+
+.paragraph   {text-align:center;
+	     font-size:17px;
+	     font-family:Verdana;}
+
+.first       {color:#D2042D;}
+
+.second      {background-color:#D2042D;
+	     color:white;}
+
+.third	     {color:#D2042D;
+	     font-style:italic;}
+
+.bold	     {font-weight:bold;}
+.italic	     {font-style:italic;}
+.big	     {font-size:20px;}
+.small	     {font-size:14px;}
+.underline   {text-decoration:underline;}
+.overline    {text-decoration:overline;}

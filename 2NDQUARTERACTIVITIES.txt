@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+    <head> 
+	<link rel="stylesheet" href="table.css">
+	<title> NOTEPAD AND BROWSER OUTPUTS </title> 
+    </head>
+	
+    <body>
+	<h1> 2ND QUARTER NOTEPAD AND BROWSER OUTPUTS </h1>
+
+	<table style="text-align:center;" align="center" bordercolor="#D2042D" border="5">
+	    <tbody>
+		<tr class="tr">
+		    <th> <p> ACTIVITIES </p> </th>
+		    <th> <p> PICTURES </p> </th>
+		</tr>
+
+
+		<tr class="tr1">
+		    <td> INTRAMURALS 2024 </td>
+		    <td> <img src="REDSANTELMOS.jpg" width="400px" height="220px"> </td>
+		</tr>
+		<tr class="tr">
+		    <td> AP HISTORICAL ICON </td>
+		    <td> <img src="fridakhalo.jpg" width="400px" height="220px"> </td>
+		</tr>
+	    </tbody>
+	</table>
+
+    </body>
+
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+    <head> 
+	<link rel="stylesheet" href="LESSON3_UNIVERSALSELECTOR.css">
+	<title> LESSON 3: CSS SELECTORS - UNIVERSAL </title> 
+    </head>
+
+    <body>
+	<h1> <i> <u> LESSON 3: CSS SELECTORS - UNIVERSAL </u> </i> </h1>
+	<p> A type of CSS selector which changes the style of every HTML element on the code. </p>
+	<p> Universal selector is applied by using asterisk in the CSS file. </p>
+    </body>
+
+</html>

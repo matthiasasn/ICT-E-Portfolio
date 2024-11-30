@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+    <head> 
+	<link rel="stylesheet" href="table.css">
+	<title> NOTEPAD AND BROWSER OUTPUTS </title> 
+    </head>
+	
+    <body>
+	<h1> 2ND QUARTER NOTEPAD AND BROWSER OUTPUTS </h1>
+	<table style="text-align:center;" align="center" bordercolor="#D2042D" border="5">
+	    <tbody>
+		<tr class="tr">
+		    <th> <p> LESSON </p> </th>
+		    <th> <p> NOTEPAD </p> </th>
+		    <th> <p> CSS </p> </th>
+		    <th> <p> BROWSER OUTPUT </p> </th>
+		</tr>
+
+
+		<tr class="tr1">
+		    <td> LESSON 1&2: EMBEDDED STYLE </td>
+		    <td> <img src="LESSON1AND2_EMBEDDEDSTYLETXT.PNG" width="400px" height="200px"> </td>
+		    <td> NONE </td>
+		    <td> <img src="LESSON1AND2_EMBEDDEDSTYLEHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+		<tr class="tr">
+		    <td> LESSON 1&2: EXTERNAL STYLE </td>
+		    <td> <img src="LESSON1AND2_EXTERNALSTYLETXT.PNG" width="400px" height="200px"> </td>
+		    <td> <img src="LESSON1AND2_EXTERNALSTYLECSS.PNG" width="300px" height="200px"> </td>
+		    <td> <img src="LESSON1AND2_EXTERNALSTYLEHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+		<tr class="tr1">
+		    <td> LESSON 1&2: INLINE STYLE </td>
+		    <td> <img src="LESSON1AND2_INLINESTYLETXT.PNG" width="400px" height="200px"> </td>
+		    <td> NONE </td>
+		    <td> <img src="LESSON1AND2_INLINESTYLEHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+
+
+		<tr class="tr">
+		    <td> LESSON 3: ATTRIBUTE SELECTOR </td>
+		    <td> <img src="LESSON3_ATTRIBUTESELECTORTXT.PNG" width="400px" height="200px"> </td>
+		    <td> <img src="LESSON3_ATTRIBUTESELECTORCSS.PNG" width="300px" height="200px"> </td>
+		    <td> <img src="LESSON3_ATTRIBUTESELECTORHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+		<tr class="tr1">
+		    <td> LESSON 3: GROUP SELECTOR </td>
+		    <td> <img src="LESSON3_GROUPSELECTORTXT.PNG" width="400px" height="200px"> </td>
+		    <td> <img src="LESSON3_GROUPSELECTORCSS.PNG" width="300px" height="200px"> </td>
+		    <td> <img src="LESSON3_GROUPSELECTORHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+		<tr class="tr">
+		    <td> LESSON 3: ID AND CLASS SELECTOR </td>
+		    <td> <img src="LESSON3_IDANDCLASSSELECTORTXT.PNG" width="400px" height="200px"> </td>
+		    <td> <img src="LESSON3_IDANDCLASSSELECTORCSS.PNG" width="300px" height="200px"> </td>
+		    <td> <img src="LESSON3_IDANDCLASSSELECTORHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+		<tr class="tr1">
+		    <td> LESSON 3: UNIVERSAL SELECTOR </td>
+		    <td> <img src="LESSON3_UNIVERSALSELECTORTXT.PNG" width="400px" height="200px"> </td>
+		    <td> <img src="LESSON3_UNIVERSALSELECTORCSS.PNG" width="300px" height="200px"> </td>
+		    <td> <img src="LESSON3_UNIVERSALSELECTORHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+
+
+		<tr class="tr">
+		    <td> LESSON 4: DIV AND SPAN TAG </td>
+		    <td> <img src="LESSON4_DIVANDSPANTXT.PNG" width="400px" height="200px"> </td>
+		    <td> <img src="LESSON4_DIVANDSPANCSS.PNG" width="300px" height="200px"> </td>
+		    <td> <img src="LESSON4_DIVANDSPANHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+
+
+		<tr class="tr1">
+		    <td> LESSON 5: DIMENSIONS </td>
+		    <td> <img src="LESSON5_DIMENSIONSTXT.PNG" width="400px" height="200px"> </td>
+		    <td> <img src="LESSON5_DIMENSIONSCSS.PNG" width="300px" height="200px"> </td>
+		    <td> <img src="LESSON5_DIMENSIONSHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+
+
+		<tr class="tr">
+		    <td> LESSON 6: TYPOGRAPHY </td>
+		    <td> <img src="LESSON6_TYPOGRAPHYTXT.PNG" width="400px" height="200px"> </td>
+		    <td> <img src="LESSON6_TYPOGRAPHYCSS.PNG" width="300px" height="200px"> </td>
+		    <td> <img src="LESSON6_TYPOGRAPHYHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+
+
+		<tr class="tr1">
+		    <td> LESSON 7: BOX MODEL </td>
+		    <td> <img src="LESSON7_BOXMODELTXT.PNG" width="400px" height="200px"> </td>
+		    <td> <img src="LESSON7_BOXMODELCSS.PNG" width="300px" height="200px"> </td>
+		    <td> <img src="LESSON7_BOXMODELHTML.PNG" width="400px" height="200px"> </td>
+		</tr>
+	    </tbody>
+	</table>
+
+    </body>
+
+</html>

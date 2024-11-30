@@ -1,0 +1,17 @@
+body	   {background-image:url(grid.jpg);}
+
+.head	   {text-align:center;
+	   color:#D2042D;}
+
+.paragraph {text-align:justify;
+	   font-size:17px;
+	   font-family:Verdana;
+	   color:#D2042D;}
+
+.first     {position:absolute;
+	   top:100px;
+	   left:100px;}
+
+.second    {position:absolute;
+	   top:200px;
+	   left:600px;}

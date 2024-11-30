@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+    <head> 
+	<link rel="stylesheet" href="2icteportfolio.css">
+	<style type="text/css">
+	    a:link{color:white;}
+	    a:visited{color:#6495ED;}
+	    a:hover{color:#6495ED;}
+	    a:active{color:white;}
+	</style>
+	<title> 2ND QUARTER ICT E-PORTFOLIO </title> 
+    </head>
+
+    <body>
+	<h1 class="head"> ICT E-PORTFOLIO </h1>
+	<hr noshade>
+
+	<h3 class="head"> 2ND QUARTER ACTIVITIES </h3>
+	    <table style="text-align:center;" align="center" bordercolor="#D2042D" border="5">
+		<th class="tr"> <a href="2NDQUARTERACTIVITIES.html"> CLICK HERE! </th>
+	    </table>
+
+	<h3 class="head"> NOTEPAD AND BROWSER OUTPUTS </h3>
+	    <table style="text-align:center;" align="center" bordercolor="#D2042D" border="5">
+		<th class="tr"> <a href="2NOTEPADANDBROWSEROUTPUTS.html"> CLICK HERE! </th>
+	    </table>
+
+	<h3 class="head"> REFLECTION </h3>
+	    <p class="paragraph"> Making this e-portfolio for the 2nd quarter has made me realize how easy it is to get overwhelmed and stressed through coding. Though, it has also given me the opportunity to explore and learn more about how coding really works. And through this, I have decided not to choose anything related to coding in my future career. What I enjoyed the most in the making of this e-portfolio was the satisfaction that you feel after the myriad of difficulties you went through, and the satisfaction you feel after you got the code right and it worked in the website. This e-portfolio did not only teach me how to code with more complexion, it has also taught me that nothing grows in comfort, and that happiness comes from your problems and your hard work to solve that problem. </p>
+    </body>
+
+</html>
